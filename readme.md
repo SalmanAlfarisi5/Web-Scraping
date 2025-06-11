@@ -15,7 +15,8 @@ This repo is my personal sandbox for learning **Python web scraping**.
 | `main.ipynb` | Local `home.html` | Course titles & prices (offline demo)
 | `Carousell.ipynb` | carousell.sg | Listing titles + prices
 | `GeeksforGeeks.ipynb` | geeksforgeeks.org | Article headlines + code blocks
-| `TalentConnect.ipynb` | talentconnect.linkedin.com | Job titles + company names
+| `TalentConnect.ipynb` | nus-csm.symplicity.com | On going, confused about login
+| `Cornell.ipynb` | arxiv.org | On going
 
 ## What’s next
 
