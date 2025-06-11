@@ -1,0 +1,4 @@
+Paper title: ADAM: Autonomous Discovery and Annotation Model using LLMs for Context-Aware Annotations 
+Paper id: arXiv:2506.08968 
+Paper link: https://arxiv.org/abs/2506.08968 
+Authors: ['Amirreza Rouhi', 'Solmaz Arezoomandan', 'Knut Peterson', 'Joseph T. Woods', 'David K. Han']

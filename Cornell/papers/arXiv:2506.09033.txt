@@ -1,0 +1,4 @@
+Paper title: Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning 
+Paper id: arXiv:2506.09033 
+Paper link: https://arxiv.org/abs/2506.09033 
+Authors: ['Haozhen Zhang', 'Tao Feng', 'Jiaxuan You']

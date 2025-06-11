@@ -1,0 +1,4 @@
+Paper title: Brevity is the soul of sustainability: Characterizing LLM response lengths 
+Paper id: arXiv:2506.08686 
+Paper link: https://arxiv.org/abs/2506.08686 
+Authors: ['Soham Poddar', 'Paramita Koley', 'Janardan Misra', 'Sanjay Podder', 'Navveen Balani', 'Niloy Ganguly', 'Saptarshi Ghosh']

@@ -1,0 +1,4 @@
+Paper title: ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering 
+Paper id: arXiv:2506.09050 
+Paper link: https://arxiv.org/abs/2506.09050 
+Authors: ['Yuki Imajuku', 'Kohki Horie', 'Yoichi Iwata', 'Kensho Aoki', 'Naohiro Takahashi', 'Takuya Akiba']

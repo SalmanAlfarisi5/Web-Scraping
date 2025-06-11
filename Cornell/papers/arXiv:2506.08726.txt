@@ -1,0 +1,4 @@
+Paper title: Improved LLM Agents for Financial Document Question Answering 
+Paper id: arXiv:2506.08726 
+Paper link: https://arxiv.org/abs/2506.08726 
+Authors: ['Nelvin Tan', 'Zian Seng', 'Liang Zhang', 'Yu-Ching Shih', 'Dong Yang', 'Amol Salunkhe']

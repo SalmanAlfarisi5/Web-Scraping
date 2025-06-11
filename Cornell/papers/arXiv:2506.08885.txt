@@ -1,0 +1,4 @@
+Paper title: AdversariaL attacK sAfety aLIgnment(ALKALI): Safeguarding LLMs through GRACE: Geometric Representation-Aware Contrastive Enhancement- Introducing Adversarial Vulnerability Quality Index (AVQI) 
+Paper id: arXiv:2506.08885 
+Paper link: https://arxiv.org/abs/2506.08885 
+Authors: ['Danush Khanna', 'Krishna Kumar', 'Basab Ghosh', 'Vinija Jain', 'Vasu Sharma', 'Aman Chadha', 'Amitava Das']

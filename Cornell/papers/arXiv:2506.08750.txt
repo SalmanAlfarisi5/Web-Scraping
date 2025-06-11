@@ -1,0 +1,4 @@
+Paper title: Unlocking the Potential of Large Language Models in the Nuclear Industry with Synthetic Data 
+Paper id: arXiv:2506.08750 
+Paper link: https://arxiv.org/abs/2506.08750 
+Authors: ['Muhammad Anwar', 'Daniel Lau', 'Mishca de Costa', 'Issam Hammad']

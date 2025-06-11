@@ -1,0 +1,4 @@
+Paper title: Learning to Reason Across Parallel Samples for LLM Reasoning 
+Paper id: arXiv:2506.09014 
+Paper link: https://arxiv.org/abs/2506.09014 
+Authors: ['Jianing Qi', 'Xi Ye', 'Hao Tang', 'Zhigang Zhu', 'Eunsol Choi']

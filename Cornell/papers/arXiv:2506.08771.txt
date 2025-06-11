@@ -1,0 +1,4 @@
+Paper title: Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery 
+Paper id: arXiv:2506.08771 
+Paper link: https://arxiv.org/abs/2506.08771 
+Authors: ['Yuni Susanti', 'Michael Färber']

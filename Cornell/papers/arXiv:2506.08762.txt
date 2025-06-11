@@ -1,0 +1,4 @@
+Paper title: EDINET-Bench: Evaluating LLMs on Complex Financial Tasks using Japanese Financial Statements 
+Paper id: arXiv:2506.08762 
+Paper link: https://arxiv.org/abs/2506.08762 
+Authors: ['Issa Sugiura', 'Takashi Ishida', 'Taro Makino', 'Chieko Tazuke', 'Takanori Nakagawa', 'Kosuke Nakago', 'David Ha']

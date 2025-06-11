@@ -1,0 +1,4 @@
+Paper title: Explainable Compliance Detection with Multi-Hop Natural Language Inference on Assurance Case Structure 
+Paper id: arXiv:2506.08713 
+Paper link: https://arxiv.org/abs/2506.08713 
+Authors: ['Fariz Ikhwantri', 'Dusica Marijan']

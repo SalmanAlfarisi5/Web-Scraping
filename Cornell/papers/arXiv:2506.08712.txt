@@ -1,0 +1,4 @@
+Paper title: ConfPO: Exploiting Policy Model Confidence for Critical Token Selection in Large Language Model Preference Optimization 
+Paper id: arXiv:2506.08712 
+Paper link: https://arxiv.org/abs/2506.08712 
+Authors: ['Hee Suk Yoon', 'Eunseop Yoon', 'Mark A. Hasegawa-Johnson', 'Sungwoong Kim', 'Chang D. Yoo']

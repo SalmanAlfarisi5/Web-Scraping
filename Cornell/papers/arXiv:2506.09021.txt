@@ -1,0 +1,4 @@
+Paper title: Comparing human and LLM proofreading in L2 writing: Impact on lexical and syntactic features 
+Paper id: arXiv:2506.09021 
+Paper link: https://arxiv.org/abs/2506.09021 
+Authors: ['Hakyung Sung', 'Karla Csuros', 'Min-Chang Sung']

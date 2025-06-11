@@ -1,0 +1,4 @@
+Paper title: From Legal Texts to Defeasible Deontic Logic via LLMs: A Study in Automated Semantic Analysis 
+Paper id: arXiv:2506.08899 
+Paper link: https://arxiv.org/abs/2506.08899 
+Authors: ['Elias Horner', 'Cristinel Mateis', 'Guido Governatori', 'Agata Ciabattoni']

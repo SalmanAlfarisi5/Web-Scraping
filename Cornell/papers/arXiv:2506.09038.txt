@@ -1,0 +1,4 @@
+Paper title: AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions 
+Paper id: arXiv:2506.09038 
+Paper link: https://arxiv.org/abs/2506.09038 
+Authors: ['Polina Kirichenko', 'Mark Ibrahim', 'Kamalika Chaudhuri', 'Samuel J. Bell']

@@ -1,0 +1,4 @@
+Paper title: Dialect Normalization using Large Language Models and Morphological Rules 
+Paper id: arXiv:2506.08907 
+Paper link: https://arxiv.org/abs/2506.08907 
+Authors: ['Antonios Dimakis', 'John Pavlopoulos', 'Antonios Anastasopoulos']

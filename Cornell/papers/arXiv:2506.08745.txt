@@ -1,0 +1,4 @@
+Paper title: Consistent Paths Lead to Truth: Self-Rewarding Reinforcement Learning for LLM Reasoning 
+Paper id: arXiv:2506.08745 
+Paper link: https://arxiv.org/abs/2506.08745 
+Authors: ['Kongcheng Zhang', 'Qi Yao', 'Shunyu Liu', 'Yingjie Wang', 'Baisheng Lai', 'Jieping Ye', 'Mingli Song', 'Dacheng Tao']

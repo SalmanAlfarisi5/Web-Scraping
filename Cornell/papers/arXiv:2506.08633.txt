@@ -1,0 +1,4 @@
+Paper title: Approaching Dialogue State Tracking via Aligning Speech Encoders and LLMs 
+Paper id: arXiv:2506.08633 
+Paper link: https://arxiv.org/abs/2506.08633 
+Authors: ['Šimon Sedláček', 'Bolaji Yusuf', 'Ján Švec', 'Pradyoth Hegde', 'Santosh Kesiraju', 'Oldřich Plchot', 'Jan Černocký']

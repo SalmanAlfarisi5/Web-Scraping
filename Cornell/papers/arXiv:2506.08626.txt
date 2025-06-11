@@ -1,0 +1,4 @@
+Paper title: Leveraging LLMs to Evaluate Usefulness of Document 
+Paper id: arXiv:2506.08626 
+Paper link: https://arxiv.org/abs/2506.08626 
+Authors: ['Xingzhu Wang', 'Erhan Zhang', 'Yiqun Chen', 'Jinghan Xuan', 'Yucheng Hou', 'Yitong Xu', 'Ying Nie', 'Shuaiqiang Wang', 'Dawei Yin', 'Jiaxin Mao']

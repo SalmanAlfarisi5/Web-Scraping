@@ -1,0 +1,4 @@
+Paper title: Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language Model 
+Paper id: arXiv:2506.08967 
+Paper link: https://arxiv.org/abs/2506.08967 
+Authors: ['Ailin Huang', 'Bingxin Li', 'Bruce Wang', 'Boyong Wu', 'Chao Yan', 'Chengli Feng', 'Heng Wang', 'Hongyu Zhou', 'Hongyuan Wang', 'Jingbei Li', 'Jianjian Sun', 'Joanna Wang', 'Mingrui Chen', 'Peng Liu', 'Ruihang Miao', 'Shilei Jiang', 'Tian Fei', 'Wang You', 'Xi Chen', 'Xuerui Yang', 'Yechang Huang', 'Yuxiang Zhang', 'Zheng Ge', 'Zheng Gong', 'Zhewei Huang']

@@ -1,0 +1,4 @@
+Paper title: Measuring Data Science Automation: A Survey of Evaluation Tools for AI Assistants and Agents 
+Paper id: arXiv:2506.08800 
+Paper link: https://arxiv.org/abs/2506.08800 
+Authors: ['Irene Testini', 'José Hernández-Orallo', 'Lorenzo Pacchiardi']

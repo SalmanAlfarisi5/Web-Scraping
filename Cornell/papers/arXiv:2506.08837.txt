@@ -1,0 +1,4 @@
+Paper title: Design Patterns for Securing LLM Agents against Prompt Injections 
+Paper id: arXiv:2506.08837 
+Paper link: https://arxiv.org/abs/2506.08837 
+Authors: ['Luca Beurer-Kellner', 'Beat Buesser Ana-Maria Creţu', 'Edoardo Debenedetti', 'Daniel Dobos', 'Daniel Fabian', 'Marc Fischer', 'David Froelicher', 'Kathrin Grosse', 'Daniel Naeff', 'Ezinwanne Ozoani', 'Andrew Paverd', 'Florian Tramèr', 'Václav Volhejn']

@@ -1,0 +1,4 @@
+Paper title: Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation 
+Paper id: arXiv:2506.09046 
+Paper link: https://arxiv.org/abs/2506.09046 
+Authors: ['Xiaowen Ma', 'Chenyang Lin', 'Yao Zhang', 'Volker Tresp', 'Yunpu Ma']

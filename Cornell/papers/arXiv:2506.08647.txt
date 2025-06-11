@@ -1,0 +1,4 @@
+Paper title: Summarization for Generative Relation Extraction in the Microbiome Domain 
+Paper id: arXiv:2506.08647 
+Paper link: https://arxiv.org/abs/2506.08647 
+Authors: ['Oumaima El Khettari', 'Solen Quiniou', 'Samuel Chaffron']

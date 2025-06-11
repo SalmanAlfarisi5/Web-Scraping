@@ -16,8 +16,7 @@ This repo is my personal sandbox for learning **Python web scraping**.
 | `Carousell.ipynb` | carousell.sg | Listing titles + prices
 | `GeeksforGeeks.ipynb` | geeksforgeeks.org | Article headlines + code blocks
 | `TalentConnect.ipynb` | nus-csm.symplicity.com | On going, confused about login
-| `Cornell.ipynb` | arxiv.org | On going
-
+| `Cornell.ipynb` | arxiv.org | Paper title, authors, id and links
 ## What’s next
 
 - Handle multi‑page scraping & scrolling.

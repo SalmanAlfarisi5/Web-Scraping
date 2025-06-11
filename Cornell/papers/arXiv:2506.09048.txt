@@ -1,0 +1,4 @@
+Paper title: Understanding Task Vectors in In-Context Learning: Emergence, Functionality, and Limitations 
+Paper id: arXiv:2506.09048 
+Paper link: https://arxiv.org/abs/2506.09048 
+Authors: ['Yuxin Dong', 'Jiachen Jiang', 'Zhihui Zhu', 'Xia Ning']

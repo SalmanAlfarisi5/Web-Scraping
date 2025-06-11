@@ -1,0 +1,4 @@
+Paper title: TableDreamer: Progressive and Weakness-guided Data Synthesis from Scratch for Table Instruction Tuning 
+Paper id: arXiv:2506.08646 
+Paper link: https://arxiv.org/abs/2506.08646 
+Authors: ['Mingyu Zheng', 'Zhifan Feng', 'Jia Wang', 'Lanrui Wang', 'Zheng Lin', 'Yang Hao', 'Weiping Wang']

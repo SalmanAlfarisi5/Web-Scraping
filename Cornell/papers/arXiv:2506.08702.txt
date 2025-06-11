@@ -1,0 +1,4 @@
+Paper title: Educators' Perceptions of Large Language Models as Tutors: Comparing Human and AI Tutors in a Blind Text-only Setting 
+Paper id: arXiv:2506.08702 
+Paper link: https://arxiv.org/abs/2506.08702 
+Authors: ['Sankalan Pal Chowdhury', 'Terry Jingchen Zhang', 'Donya Rooein', 'Dirk Hovy', 'Tanja Käser', 'Mrinmaya Sachan']

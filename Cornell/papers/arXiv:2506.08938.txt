@@ -1,0 +1,4 @@
+Paper title: FaithfulRAG: Fact-Level Conflict Modeling for Context-Faithful Retrieval-Augmented Generation 
+Paper id: arXiv:2506.08938 
+Paper link: https://arxiv.org/abs/2506.08938 
+Authors: ['Qinggang Zhang', 'Zhishang Xiang', 'Yilin Xiao', 'Le Wang', 'Junhui Li', 'Xinrun Wang', 'Jinsong Su']

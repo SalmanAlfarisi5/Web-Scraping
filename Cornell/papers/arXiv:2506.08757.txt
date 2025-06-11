@@ -1,0 +1,4 @@
+Paper title: Enhancing Accuracy and Maintainability in Nuclear Plant Data Retrieval: A Function-Calling LLM Approach Over NL-to-SQL 
+Paper id: arXiv:2506.08757 
+Paper link: https://arxiv.org/abs/2506.08757 
+Authors: ['Mishca de Costa', 'Muhammad Anwar', 'Dave Mercier', 'Mark Randall', 'Issam Hammad']

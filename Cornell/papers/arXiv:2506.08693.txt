@@ -1,0 +1,4 @@
+Paper title: On the Ethics of Using LLMs for Offensive Security 
+Paper id: arXiv:2506.08693 
+Paper link: https://arxiv.org/abs/2506.08693 
+Authors: ['Andreas Happe', 'Jürgen Cito']

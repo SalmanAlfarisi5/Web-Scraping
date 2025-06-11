@@ -1,0 +1,4 @@
+Paper title: Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models 
+Paper id: arXiv:2506.09002 
+Paper link: https://arxiv.org/abs/2506.09002 
+Authors: ['Bei Chu', 'Yang Feng', 'Kui Liu', 'Hange Shi', 'Zifan Nan', 'Zhaoqiang Guo', 'Baowen Xu']

@@ -1,0 +1,4 @@
+Paper title: Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better 
+Paper id: arXiv:2506.09040 
+Paper link: https://arxiv.org/abs/2506.09040 
+Authors: ['Dianyi Wang', 'Wei Song', 'Yikun Wang', 'Siyuan Wang', 'Kaicheng Yu', 'Zhongyu Wei', 'Jiaqi Wang']

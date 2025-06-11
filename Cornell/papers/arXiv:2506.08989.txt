@@ -1,0 +1,4 @@
+Paper title: SwS: Self-aware Weakness-driven Problem Synthesis in Reinforcement Learning for LLM Reasoning 
+Paper id: arXiv:2506.08989 
+Paper link: https://arxiv.org/abs/2506.08989 
+Authors: ['Xiao Liang', 'Zhong-Zhi Li', 'Yeyun Gong', 'Yang Wang', 'Hengyuan Zhang', 'Yelong Shen', 'Ying Nian Wu', 'Weizhu Chen']

@@ -1,0 +1,4 @@
+Paper title: Factors affecting the in-context learning abilities of LLMs for dialogue state tracking 
+Paper id: arXiv:2506.08753 
+Paper link: https://arxiv.org/abs/2506.08753 
+Authors: ['Pradyoth Hegde', 'Santosh Kesiraju', 'Jan Švec', 'Šimon Sedláček', 'Bolaji Yusuf', 'Oldřich Plchot', 'Deepak K T', 'Jan Černocký']

@@ -1,0 +1,4 @@
+Paper title: RAISE: Enhancing Scientific Reasoning in LLMs via Step-by-Step Retrieval 
+Paper id: arXiv:2506.08625 
+Paper link: https://arxiv.org/abs/2506.08625 
+Authors: ['Minhae Oh', 'Jeonghye Kim', 'Nakyung Lee', 'Donggeon Seo', 'Taeuk Kim', 'Jungwoo Lee']

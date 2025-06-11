@@ -1,0 +1,4 @@
+Paper title: AdaDec: Uncertainty-Guided Adaptive Decoding for LLM-based Code Generation 
+Paper id: arXiv:2506.08980 
+Paper link: https://arxiv.org/abs/2506.08980 
+Authors: ['Kaifeng He', 'Mingwei Liu', 'Chong Wang', 'Zike Li', 'Yanlin Wang', 'Xin Peng', 'Zibin Zheng']

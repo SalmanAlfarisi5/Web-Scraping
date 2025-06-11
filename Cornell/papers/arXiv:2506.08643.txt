@@ -1,0 +1,4 @@
+Paper title: MEMETRON: Metaheuristic Mechanisms for Test-time Response Optimization of Large Language Models 
+Paper id: arXiv:2506.08643 
+Paper link: https://arxiv.org/abs/2506.08643 
+Authors: ['Son The Nguyen', 'Theja Tulabandhula']

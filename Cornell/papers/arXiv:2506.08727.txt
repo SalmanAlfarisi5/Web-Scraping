@@ -1,0 +1,4 @@
+Paper title: Breaking the ICE: Exploring promises and challenges of benchmarks for Inference Carbon & Energy estimation for LLMs 
+Paper id: arXiv:2506.08727 
+Paper link: https://arxiv.org/abs/2506.08727 
+Authors: ['Samarth Sikand', 'Rohit Mehra', 'Priyavanshi Pathania', 'Nikhil Bamby', 'Vibhu Saujanya Sharma', 'Vikrant Kaulgud', 'Sanjay Podder', 'Adam P. Burden']

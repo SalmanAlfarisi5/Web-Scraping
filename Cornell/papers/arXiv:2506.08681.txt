@@ -1,0 +1,4 @@
+Paper title: Mitigating Reward Over-optimization in Direct Alignment Algorithms with Importance Sampling 
+Paper id: arXiv:2506.08681 
+Paper link: https://arxiv.org/abs/2506.08681 
+Authors: ['Phuc Minh Nguyen', 'Ngoc-Hieu Nguyen', 'Duy H. M. Nguyen', 'Anji Liu', 'An Mai', 'Binh T. Nguyen', 'Daniel Sonntag', 'Khoa D. Doan']

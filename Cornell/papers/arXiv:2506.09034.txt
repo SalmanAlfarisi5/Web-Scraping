@@ -1,0 +1,4 @@
+Paper title: FZOO: Fast Zeroth-Order Optimizer for Fine-Tuning Large Language Models towards Adam-Scale Speed 
+Paper id: arXiv:2506.09034 
+Paper link: https://arxiv.org/abs/2506.09034 
+Authors: ['Sizhe Dang', 'Yangyang Guo', 'Yanjun Zhao', 'Haishan Ye', 'Xiaodong Zheng', 'Guang Dai', 'Ivor Tsang']

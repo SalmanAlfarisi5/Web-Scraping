@@ -1,0 +1,4 @@
+Paper title: VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning 
+Paper id: arXiv:2506.09049 
+Paper link: https://arxiv.org/abs/2506.09049 
+Authors: ['Li Kang', 'Xiufeng Song', 'Heng Zhou', 'Yiran Qin', 'Jie Yang', 'Xiaohong Liu', 'Philip Torr', 'Lei Bai', 'Zhenfei Yin']

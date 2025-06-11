@@ -1,0 +1,4 @@
+Paper title: Towards Secure and Private Language Models for Nuclear Power Plants 
+Paper id: arXiv:2506.08746 
+Paper link: https://arxiv.org/abs/2506.08746 
+Authors: ['Muhammad Anwar', 'Mishca de Costa', 'Issam Hammad', 'Daniel Lau']

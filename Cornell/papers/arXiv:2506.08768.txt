@@ -1,0 +1,4 @@
+Paper title: AraReasoner: Evaluating Reasoning-Based LLMs for Arabic NLP 
+Paper id: arXiv:2506.08768 
+Paper link: https://arxiv.org/abs/2506.08768 
+Authors: ['Ahmed Hasanaath', 'Aisha Alansari', 'Ahmed Ashraf', 'Chafik Salmane', 'Hamzah Luqman', 'Saad Ezzini']

@@ -1,0 +1,4 @@
+Paper title: Can A Gamer Train A Mathematical Reasoning Model? 
+Paper id: arXiv:2506.08935 
+Paper link: https://arxiv.org/abs/2506.08935 
+Authors: ['Andrew Shin']

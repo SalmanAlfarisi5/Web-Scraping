@@ -1,0 +1,4 @@
+Paper title: e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs 
+Paper id: arXiv:2506.09026 
+Paper link: https://arxiv.org/abs/2506.09026 
+Authors: ['Amrith Setlur', 'Matthew Y. R. Yang', 'Charlie Snell', 'Jeremy Greer', 'Ian Wu', 'Virginia Smith', 'Max Simchowitz', 'Aviral Kumar']

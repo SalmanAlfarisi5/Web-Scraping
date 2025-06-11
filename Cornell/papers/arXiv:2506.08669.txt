@@ -1,0 +1,4 @@
+Paper title: Enhancing Reasoning Capabilities of Small Language Models with Blueprints and Prompt Template Search 
+Paper id: arXiv:2506.08669 
+Paper link: https://arxiv.org/abs/2506.08669 
+Authors: ['Dongge Han', 'Menglin Xia', 'Daniel Madrigal Diaz', 'Samuel Kessler', 'Ankur Mallick', 'Xuchao Zhang', 'Mirian Del Carmen Hipolito Garcia', 'Jin Xu', 'Victor Rühle', 'Saravan Rajmohan']

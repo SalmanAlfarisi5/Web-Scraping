@@ -1,0 +1,4 @@
+Paper title: Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task 
+Paper id: arXiv:2506.08872 
+Paper link: https://arxiv.org/abs/2506.08872 
+Authors: ['Nataliya Kosmyna', 'Eugene Hauptmann', 'Ye Tong Yuan', 'Jessica Situ', 'Xian-Hao Liao', 'Ashly Vivian Beresnitzky', 'Iris Braunstein', 'Pattie Maes']

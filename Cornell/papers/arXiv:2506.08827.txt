@@ -1,0 +1,4 @@
+Paper title: The impact of fine tuning in LLaMA on hallucinations for named entity extraction in legal documentation 
+Paper id: arXiv:2506.08827 
+Paper link: https://arxiv.org/abs/2506.08827 
+Authors: ['Francisco Vargas', 'Alejandro González Coene', 'Gaston Escalante', 'Exequiel Lobón', 'Manuel Pulido']

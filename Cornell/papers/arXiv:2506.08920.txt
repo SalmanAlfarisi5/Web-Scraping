@@ -1,0 +1,4 @@
+Paper title: PropMEND: Hypernetworks for Knowledge Propagation in LLMs 
+Paper id: arXiv:2506.08920 
+Paper link: https://arxiv.org/abs/2506.08920 
+Authors: ['Zeyu Leo Liu', 'Greg Durrett', 'Eunsol Choi']
